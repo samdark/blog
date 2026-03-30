@@ -9,6 +9,7 @@ tags:
 
 A video about MCP by Roman Pronsky. Just 3.5 minutes of very high quality content.
 
-[https://www.youtube.com/watch?v=qPVtVulhFC4](https://www.youtube.com/watch?v=qPVtVulhFC4)
+
+[youtube id="qPVtVulhFC4" /]
 
 #mcp

@@ -1,5 +1,5 @@
 ---
-title: An interesting consequence but today I was asked about getting started with tech debt. So below is
+title: Getting started with tech debt
 date: 2022-12-19 08:45:54
 edited: 2022-12-19 08:50:46
 ---
@@ -22,3 +22,5 @@ An interesting consequence but today I was asked about getting started with tech
 5. Automated tests.
 6. Introduce strict types.
 7. Add Sentry/Rollbar to the project. Fix errors.
+
+#techdebt #churn #refactoring
