@@ -1,8 +1,8 @@
 ---
-title: Welcome to YiiCast!
+title: Welcome to SamDark blog!
 permalink: /
 ---
 
 Hello!
 
-This is YiiCast website. A podcast about Yii framework.
+This is Alexander Makarov blog.
