@@ -7,6 +7,11 @@ else
 	PRIMARY_GOAL := $(firstword $(MAKECMDGOALS))
 endif
 
+ifeq ($(PRIMARY_GOAL),update)
+update: ## Update the image
+	docker pull ghcr.io/yiipress/engine:latest
+endif
+
 ifeq ($(PRIMARY_GOAL),build)
 build: ## Build the site
 	docker run --rm \
