@@ -1,0 +1,23 @@
+title: SamDark blog
+description: Blog of SamDark
+base_url: https://rmcreative.ru/
+language: en
+charset: UTF-8
+
+default_author: samdark
+
+date_format: Y.m.d
+entries_per_page: 10
+
+permalink: /:collection/:slug/
+
+taxonomies:
+  - tags
+  - categories
+
+params:
+  github_url: https://github.com/samdark/blog
+
+search:
+  full_text: false   # index full body text (default: false, summary+tags only)
+  results: 10        # max results shown (default: 10)

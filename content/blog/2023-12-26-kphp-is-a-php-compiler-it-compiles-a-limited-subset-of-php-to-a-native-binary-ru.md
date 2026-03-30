@@ -1,0 +1,18 @@
+---
+title: "> KPHP is a PHP compiler. It compiles a limited subset of PHP to a native binary running faster"
+date: 2023-12-26 09:02:16
+edited: 2024-02-19 06:54:20
+tags:
+  - php
+image: /blog/assets/photo_53@26-12-2023_12-02-16.jpg
+---
+
+![](/blog/assets/photo_53@26-12-2023_12-02-16.jpg)
+
+> KPHP is a PHP compiler. It compiles a limited subset of PHP to a native binary running faster than PHP.
+
+The thing powers quite large social network, [VK.com](https://VK.com), that is deployed as a huge binary. Language level supported is about 7.4 so it is comfortable enough to use it. Result is [usually 5—7 times faster than regular PHP](https://vkcom.github.io/kphp/kphp-language/kphp-vs-php/benchmarks.html).
+
+[https://vkcom.github.io/kphp/](https://vkcom.github.io/kphp/)
+
+#php
