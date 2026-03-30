@@ -1,5 +1,5 @@
 ---
-title: "🎙Yii Cast #1: Yii3 release"
+title: "🎙 Yii Cast #1: Yii3 release"
 date: 2026-02-02 07:21:25
 edited: 2026-02-02 07:25:00
 tags:

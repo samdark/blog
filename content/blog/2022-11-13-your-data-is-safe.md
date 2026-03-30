@@ -1,11 +1,8 @@
 ---
-title: "// Found a note I've made in ~2014 but never published."
+title: "🔐 Your data is safe"
 date: 2022-11-13 21:26:06
 edited: 2022-11-14 14:31:21
 ---
-
-
-**🔐 Your data is safe**
 
 Every big tech corp nowadays lives on selling a product. And the most valuable product at all times was power. The power to control minds, to twist thoughts, to make people do what they want. The power by which we are controlled is our data. The more data we give to the corps the more they can mess with our decisions.
 
@@ -16,3 +13,5 @@ Imagine how it may be used to control you. Either by soft feeding you custom inf
 Corps saying they are living off ads revenue but with big arrays of people data the possibilities are endless. Thus, every government wants it, every business wants it, and every criminal wants it.
 
 The only thing that makes it hard to get such data is the fact people may stop providing data if they would realize what it can be used for. For that exact reason, the corps are protecting data with military-grade security and not giving it away easily. Not because they care or something. It is just too valuable to give away.
+
+_// I wrote it in ~2014 but never published before._

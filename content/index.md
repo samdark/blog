@@ -1,8 +1,6 @@
 ---
 title: Welcome to SamDark blog!
 permalink: /
+redirect_to: /blog/
 ---
 
-Hello!
-
-This is Alexander Makarov blog.

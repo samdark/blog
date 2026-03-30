@@ -13,13 +13,9 @@ image: /blog/assets/photo_133@14-12-2025_11-27-49.jpg
 
 ![](/blog/assets/photo_133@14-12-2025_11-27-49.jpg)
 
-#yiisoftYiiDataview #FirstRelease #MajorRelease #Release
-
-**🎁** [Yii DataView](https://github.com/yiisoft/yii-dataview) **1.0**
-
 The first stable release of a powerful set of data displaying widgets is now available.
 
-Yii DataView provides three flexible widgets for presenting data in web applications:
+[Yii DataView](https://github.com/yiisoft/yii-dataview) provides three flexible widgets for presenting data in web applications:
 
 • `ListView` — display data as a customizable list.
 
@@ -44,3 +40,5 @@ Customize appearance to match your application design.
 
 **Modern PHP**
 Built for PHP 8.1 - 8.5 with type safety and modern best practices.
+
+#yiisoftYiiDataview #FirstRelease #MajorRelease #Release
