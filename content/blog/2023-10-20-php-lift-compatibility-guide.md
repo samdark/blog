@@ -6,15 +6,10 @@ tags:
   - php
 ---
 
+> This guide will walk you through the various issues you might encounter when attempting to upgrade PHP to the latest version. Each problem has an explanation with examples, as well as a generic solution that you should be able to apply regardless of context.
 
-
-```
-This guide will walk you through the various issues you might encounter when attempting to upgrade PHP to the latest version. Each problem has an explanation with examples, as well as a generic solution that you should be able to apply regardless of context.
-
-
-```
 Authored by Anna Filina who has more experience dealing with legacy than anyone I know.
 
 [https://phplift.com/compatibility](https://phplift.com/compatibility)
 
-#php
+#php #legacy

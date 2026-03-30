@@ -1,5 +1,5 @@
 ---
-title: "I work on Windows, Mac and Linux switching between them constantly. It is very convenient when you"
+title: "OS independent keyboard layout and shell"
 date: 2023-01-13 17:35:05
 edited: 2023-01-13 17:35:15
 image: /blog/assets/photo_14@13-01-2023_20-35-05.jpg
@@ -47,3 +47,5 @@ Works by default.
 📌 Starship
 
 [https://starship.rs/](https://starship.rs/)
+
+#keyboard #layout #windows #linux #macos #shell #starship
