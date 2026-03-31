@@ -21,6 +21,6 @@ WezTerm can display images with its [imgcat](https://wezterm.org/cli/imgcat.html
 
 `mc.ext` is what mc uses when opening a file with F3. We forward all png and jpg to `mc-img.sh`. The shell script takes care of forwarding names to imgcat and adding keyboard navigation to view next/previous and first/last images.
 
-[https://github.com/samdark/dotfiles/tree/master/.config/mc](https://github.com/samdark/dotfiles/tree/master/.config/mc)
+[https://github.com/samdark/dotfiles/tree/master/\.config/mc](https://github.com/samdark/dotfiles/tree/master/.config/mc)
 
 #shell #bash #mc #wezterm
