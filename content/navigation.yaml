@@ -1,6 +1,8 @@
 main:
   - title: Blog
     url: /blog/
+  - title: Announcements
+    url: /announcements/
   - title: Author
     url: /author/
   - title: Talks
