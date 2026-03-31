@@ -13,4 +13,4 @@ Very good visualization and explanations. Must see.
 
 [https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
-#ml #llm #ai
+#ml #llm #ai #video

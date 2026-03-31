@@ -14,3 +14,5 @@ Checking for such stored secrets is a must. Fortunately, there is a tool for thi
 You get the tool, run it with `gitleaks detect -v` and get a detailed list of secrets found including commit hashes, files etc.
 
 I highly recommend running it on your codebase. Please share what you found in the comments (without details, of course).
+
+#git #security #gitleaks

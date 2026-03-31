@@ -10,11 +10,7 @@ tags:
   - release
 ---
 
-#yiisoftActiveRecord #FirstRelease #MajorRelease #Release
-
-**🎁** [Yii Active Record](https://github.com/yiisoft/active-record) **1.0** 
-
-We are pleased to present the first stable release of Yii Active Record — an implementation of the [Active Record](https://ru.wikipedia.org/wiki/ActiveRecord) pattern for PHP.
+We are pleased to present the first stable release of [Yii Active Record](https://github.com/yiisoft/active-record) — an implementation of the [Active Record](https://ru.wikipedia.org/wiki/ActiveRecord) pattern for PHP.
 
 The package is built on top of [Yii DB](https://github.com/yiisoft/db), which means it comes with out-of-the-box support for major relational databases: PostgreSQL, MySQL, MSSQL, Oracle, SQLite.
 
@@ -95,3 +91,5 @@ $user = User::query()->findByPk(1);
 $username = $user->get('username');
 $email = $user->get('email');
 ```
+
+#yiisoftActiveRecord #FirstRelease #MajorRelease #Release

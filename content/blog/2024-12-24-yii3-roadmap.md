@@ -1,0 +1,17 @@
+---
+title: "🔥 Yii3 roadmap"
+date: 2024-12-24 07:22:00
+edited: 2024-12-24 07:22:04
+origin: Yii3 Chronicles
+tags:
+  - news
+---
+
+
+We’ve prepared the Yii3 roadmap!
+
+🖼 [Yii3 Roadmap](https://gist.github.com/vjik/f702ee58e1360b9e544971a33babc374)
+
+The roadmap outlines what remains to be done before the release. This document is intended to be "live" and will be updated as tasks are completed, refined, or adjusted.
+
+#yii3

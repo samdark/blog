@@ -29,3 +29,5 @@ Bought it as a birthday present myself to replace good old A4Tech KV-300H.
 - Charging LED is way too bright. Solved it w/ black tape :)
 
 [https://www.keychron.com/products/keychron-k5-se-ultra-slim-wireless-mechanical-keyboard?variant=40054333145177](https://www.keychron.com/products/keychron-k5-se-ultra-slim-wireless-mechanical-keyboard?variant=40054333145177)
+
+#keyboard #keychron

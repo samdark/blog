@@ -15,4 +15,4 @@ I gave a talk about Yii3 internals at Пых.конф’25. The language is Russ
 
 Если будут вопросы — задавайте тут в комментариях.
 
-#yii #yii3
+#yii #yii3 #video

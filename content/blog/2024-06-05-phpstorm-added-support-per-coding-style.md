@@ -1,5 +1,5 @@
 ---
-title: 🛠 PhpStorm added support PER coding style
+title: 🛠 PhpStorm added support for PER coding style
 date: 2024-06-05 15:29:37
 edited: 2024-09-04 08:53:07
 tags:

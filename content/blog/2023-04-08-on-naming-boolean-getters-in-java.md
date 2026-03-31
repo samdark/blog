@@ -10,13 +10,13 @@ image: /blog/assets/photo_26@08-04-2023_14-45-49.jpg
 
 During Yii3 development an interesting topic was risen. How to name boolean getters for properties like `$allowNull`. Possible names were:
 
-- `isAllowNull()
-`- `allowsNull()
-`- `isNullable()
-`- `shouldAllowNull()
-`- `hasNullAllowed()
+- `isAllowNull()`
+- `allowsNull()`
+- `isNullable()`
+- `shouldAllowNull()`
+- `hasNullAllowed()`
 
-`One of the arguments for `isAllowNull()` i.e. always prefixing property name with `is` was that it is used in Java for years.
+One of the arguments for `isAllowNull()` i.e. always prefixing property name with `is` was that it is used in Java for years.
 
 Since I was coding in Java before switching to mainly PHP, I remember why is that:
 
@@ -24,3 +24,5 @@ Since I was coding in Java before switching to mainly PHP, I remember why is tha
 2. It later became part of JSP.
 
 So overall, that is pure technical limitation and has nothing to do with either readability or correct English.
+
+#naming

@@ -23,3 +23,5 @@ The htmx itself isn't new as well. It was named [intercooler.js](https://interco
 
 
 ⭐️ If you do something for 10 years, it usually takes a complete shape so I recommend to at least [read its docs and think about the approach overall](https://htmx.org/docs/).
+
+#htmx #ajax

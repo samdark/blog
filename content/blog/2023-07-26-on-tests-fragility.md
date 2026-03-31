@@ -20,8 +20,8 @@ Keep an eye on the following test reliability obstacles:
 
 ⭐️ Test relies on network/another API. Use mocks instead. Testing network or external service isn't the responsibility of the current project.
 
-⭐️ Test relies on system time. [Use an interface and a frozen clock in your code.
+⭐️ Test relies on system time. [Use an interface and a frozen clock in your code](https://www.php-fig.org/psr/psr-20/meta/#42-example-implementations).
 
-](https://www.php-fig.org/psr/psr-20/meta/#42-example-implementations)⭐️ Test uses randomness. That includes generating non-fixed fake data that is usually fine but might cause issues from time to time. Prefer fixed data.
+⭐️ Test uses randomness. That includes generating non-fixed fake data that is usually fine but might cause issues from time to time. Prefer fixed data.
 
 *Overall, relying on any non-deterministic behavior makes the test unreliable or "flaky".*

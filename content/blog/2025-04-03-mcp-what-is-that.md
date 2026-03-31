@@ -12,4 +12,4 @@ A video about MCP by Roman Pronsky. Just 3.5 minutes of very high quality conten
 
 [youtube id="qPVtVulhFC4" /]
 
-#mcp
+#mcp #video

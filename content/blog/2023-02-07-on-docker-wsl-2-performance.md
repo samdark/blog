@@ -19,3 +19,5 @@ The same is true about IDE. Accessing files using WSL FS via `\\wsl.localhost\Ub
 - [https://www.docker.com/blog/docker-desktop-wsl-2-best-practices/](https://www.docker.com/blog/docker-desktop-wsl-2-best-practices/)
 - [https://www.jetbrains.com/help/phpstorm/remote-development-starting-page.html](https://www.jetbrains.com/help/phpstorm/remote-development-starting-page.html)
 - [https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
+
+#docker #wsl #performance #phpstorm #vscode #windows

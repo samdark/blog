@@ -16,3 +16,5 @@ Mixed offline-online conferences are very tricky for speakers. At pure online co
 🔸 non-verbal reactions: if audience is sleepy or lost or excited or...
 
 When speaking offline you can see non-verbal part and you can adjust immediately to fix the issue. When speaking online you don't have it so you have to imagine how audience will react.
+
+#speaking

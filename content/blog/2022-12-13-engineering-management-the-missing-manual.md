@@ -46,7 +46,7 @@ Top-down/central planning (one lead decides it all) = definitive failure.
 - Humans do not perfectly follow instructions
 - Humans feel anxiety
 
-![](/blog/assets/photo_7@13-12-2022_14-30-46.jpg)
+> It's **not** your job to predict the future. It **is** your job to teach people **how** you will make decisions and therefore make it easier for them to predict how you will decide.
 
 
 ## Central principles/distributed decisions

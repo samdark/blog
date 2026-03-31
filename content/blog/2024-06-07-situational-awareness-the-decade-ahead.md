@@ -1,5 +1,5 @@
 ---
-title: 📕 Situational awareness. The decade ahead.
+title: 📕 Situational awareness. The decade ahead
 date: 2024-06-07 06:22:40
 edited: 2024-06-07 06:24:44
 tags:

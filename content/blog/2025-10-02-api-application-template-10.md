@@ -13,11 +13,7 @@ image: /blog/assets/photo_126@02-10-2025_19-10-19.jpg
 
 ![](/blog/assets/photo_126@02-10-2025_19-10-19.jpg)
 
-#yiisoftAppApi #FirstRelease #MajorRelease #Release
-
-**🎁** [API Application Template](https://github.com/yiisoft/app-api) **1.0**
-
-The first stable release of the API application template for Yii3.
+The first stable release of the [API Application Template](https://github.com/yiisoft/app-api) for Yii3.
 
 The template includes the essential things required to start API application development:
 
@@ -31,3 +27,5 @@ The template includes the essential things required to start API application dev
 • and more...
 
 As an example, a simple API method and a console command are implemented. The template does not impose any restrictions on the architecture of the developed application and is open for integration with any PHP libraries.
+
+#yiisoftAppApi #FirstRelease #MajorRelease #Release

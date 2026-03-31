@@ -17,3 +17,5 @@ E >= your start && S <= your end
 
 
 *// We use it to load only visible time slots (tasks in form of date-time intervals) at* [Twindo.ai](https://Twindo.ai) *planner*.
+
+#algorithms #date-time #time

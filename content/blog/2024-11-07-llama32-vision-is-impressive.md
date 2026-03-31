@@ -11,8 +11,9 @@ image: /blog/assets/photo_87@08-11-2024_01-19-14.jpg
 ![](/blog/assets/photo_87@08-11-2024_01-19-14.jpg)
 
 
-> >>> '/home/samdark/samdark_bw.jpg' what hat type is on the photo?
+> '/home/samdark/samdark_bw.jpg' what hat type is on the photo?
 > Added image '/home/samdark/samdark_bw.jpg'
+
 > The hat in the photo appears to be a fedora, which is characterized by its indented crown and narrow brim. The hat's style and design are consistent with those of a classic 
 > fedora, making it likely that this is indeed the type of hat being worn.
 

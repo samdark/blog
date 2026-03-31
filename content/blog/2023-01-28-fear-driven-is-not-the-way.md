@@ -28,3 +28,5 @@ As a manager you should avoid using fear as much as possible. As a person you sh
 
 1. Would failing what is feared really leads to imagined consequences?
 2. Would the shortcut you're going to take work long-term?
+
+#management

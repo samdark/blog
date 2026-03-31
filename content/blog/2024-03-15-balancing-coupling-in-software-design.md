@@ -7,11 +7,8 @@ tags:
 image: /blog/assets/photo_62@15-03-2024_09-44-53.jpg
 ---
 
-![](/blog/assets/photo_62@15-03-2024_09-44-53.jpg)
-
-
 A good talk from Vlad Khononov.
 
 [youtube id="6indW7BSGZI" /]
 
-#architecture
+#architecture #video

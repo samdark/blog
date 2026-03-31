@@ -29,3 +29,5 @@ Ideally, it is the job of the project manager but sometimes it is necessary to m
 You may additionally link to the discussion, which would help if there are questions about why such a decision was made.
 
 Do you have a habit of summing-up discussions?
+
+#chats #threads #writing

@@ -40,4 +40,4 @@ You can see the results on the screenshot [or in the repository at GitHub](https
 
 Predictability of program behavior is worth these microseconds, don't you think? 🧐
 
-#php
+#php #immutable #performance

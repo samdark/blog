@@ -10,3 +10,5 @@ Some time ago I've posted about PHP being slow on Alpine. I didn't stop there an
 Unfortunately, I don't have enough time and competence to make some pull requests. Fortunately, I've asked Roman Pronsky about it and he passed it to PHP core team.
 
 [Results are promising so far](https://github.com/php/php-src/pull/13974)
+
+#php #alpine #docker #performance #musl #glibc
