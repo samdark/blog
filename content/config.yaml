@@ -1,7 +1,8 @@
 title: SamDark blog
 description: Blog of SamDark
 base_url: https://samdark.github.io/blog/
-language: en
+default_language: en
+languages: [en]
 charset: UTF-8
 
 default_author: samdark
@@ -21,4 +22,3 @@ params:
 search:
   full_text: false   # index full body text (default: false, summary+tags only)
   results: 10        # max results shown (default: 10)
-
