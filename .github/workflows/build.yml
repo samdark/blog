@@ -23,13 +23,7 @@ jobs:
         uses: actions/checkout@v6
 
       - name: Build documentation
-        run: |
-          docker run --rm \
-            --user=root \
-            -v ${{ github.workspace }}/content:/app/content \
-            -v ${{ github.workspace }}/_site:/app/_site \
-            ghcr.io/yiipress/engine:latest \
-            ./yii build --content-dir=content --output-dir=_site --no-cache
+        uses: yiipress/engine/.github/actions/build@master
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
