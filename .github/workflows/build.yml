@@ -24,6 +24,8 @@ jobs:
 
       - name: Build documentation
         uses: yiipress/engine/.github/actions/build@master
+        with:
+          version: nightly
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
